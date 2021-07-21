@@ -1,4 +1,4 @@
- ✨💞️ Hello 💞️✨
+ ✨ Hello ✨
 
 <!---
 hyunju95/hyunju95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
